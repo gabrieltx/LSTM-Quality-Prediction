@@ -32,4 +32,4 @@ The libraries used in this project were:
 ## 📌 Links
 
 - Dataset available for download: https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
-- Full story on Medium: 
+- Full story on Medium: https://gabriel-teixeira.medium.com/using-a-lstm-neural-network-to-predict-a-mining-industry-process-parameter-d91df7ffb4e
